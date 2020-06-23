@@ -26,8 +26,8 @@ A viewer can see the trend in weather data really easily that would have been ve
 
 3. In 2015, many 10 year records of record highest and lowest temperature have been broken.
 
-3.1 In February, temperature dropped below -30 degree celsius, which was the lowest temperature ever recorded in the 11 year period of (2005-2015).
+   3.1 In February, temperature dropped below -30 degree celsius, which was the lowest temperature ever recorded in the 11 year period of (2005-2015).
 
-3.2 Many days in 2015 were the hottest days compared to the previous record of 10 years.
+   3.2 Many days in 2015 were the hottest days compared to the previous record of 10 years.
 
-3.3 Many days in February were the coldest days compared to the previous record of 10 years. 
+   3.3 Many days in February were the coldest days compared to the previous record of 10 years. 
