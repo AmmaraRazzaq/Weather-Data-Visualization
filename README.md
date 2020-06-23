@@ -1,6 +1,6 @@
 # Weather Data Visualization
 ## Project Description
-Weather Data of record high and record low temperatures over a 10 year period is plotted for each calendar day. An overlay scatter plot shows the record break in the temperature in the following year.
+Weather Data of record high and record low temperatures over a 10 year period is plotted for each calendar day. An overlay scatter plot shows the record break in the temperature in the following year. The visualization gives useful insights into the data such as, variation in maximum and minimum temperature over the months and the record breaking hottest and coldest days of the year. 
 
 ## Data Resource
 Data is collected from [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.
@@ -16,3 +16,18 @@ The data consists of 165k rows.
 3. **Grouping Data:** To find the record high and record low for a given calender day over the 10 year period the data will be grouped by calender day and the maximum and minimum temperature for that day will be extracted. For the year 2015, the data will be grouped in the same way and then it will be compared with the 10 year data to see if any record is broken for a given calender day. 
 4. **Visualizing Data:** Finally, the data is visualized by making line plots for record high and record low temperatures for all 365 calender days. An overlay scatter plot is made to show any record that is broken in 2015 for a given calender day.
 
+## Insights 
+
+A viewer can see the trend in weather data really easily that would have been very hard to spot just by looking at data in tabular form. 
+
+1. July is the hottest month of the year where record temperature has reached close to 40 degree celsius. The record low temperature in July is still the highest than the record low temperature of rest of the months. 
+
+2. January and February are coldest months of the year where record temperature dropped close to -30 degree celsius. 
+
+3. In 2015, many 10 year records of record highest and lowest temperature have been broken.
+
+3.1 In February, temperature dropped below -30 degree celsius, which was the lowest temperature ever recorded in the 11 year period of (2005-2015).
+
+3.2 Many days in 2015 were the hottest days compared to the previous record of 10 years.
+
+3.3 Many days in February were the coldest days compared to the previous record of 10 years. 
