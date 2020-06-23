@@ -1,4 +1,4 @@
-# Weather-Data-Visualization
+# Weather Data Visualization
 ## Project Description
 Weather Data of record high and record low temperatures over a 10 year period is plotted for each calendar day. An overlay scatter plot shows the record break in the temperature in the following year.
 
