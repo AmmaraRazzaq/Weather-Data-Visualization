@@ -11,6 +11,9 @@ The data consists of 165k rows.
 
 The data is in 'data.csv' file. All the code is in 'Final Vesion.ipynb' Notebook, and the visualization in vector format is given in 'visualization.pdf' and 'visualization.svg' file.
 
+### Technologies
+Python, Pandas, Matplotlib, Jupyter Notebooks
+
 ## Methodology
 
 1. **Preprocessing Data:**  Some data prepocessing is required to bring the data in required form. First temperature data values are divided by 10 since they are given in tenths of values. Leap dates are dropped for the purpose of visualizing the data.
