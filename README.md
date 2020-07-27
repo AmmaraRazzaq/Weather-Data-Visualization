@@ -21,6 +21,9 @@ Python, Pandas, Matplotlib, Jupyter Notebooks
 3. **Grouping Data:** To find the record high and record low for a given calender day over the 10 year period the data will be grouped by calender day and the maximum and minimum temperature for that day will be extracted. For the year 2015, the data will be grouped in the same way and then it will be compared with the 10 year data to see if any record is broken for a given calender day. 
 4. **Visualizing Data:** Finally, the data is visualized by making line plots for record high and record low temperatures for all 365 calender days. An overlay scatter plot is made to show any record that is broken in 2015 for a given calender day.
 
+## Visualization
+![alt text](https://github.com/AmmaraRazzaq/Weather-Data-Visualization/blob/master/visualization.svg)
+
 ## Insights 
 
 A viewer can see the trend in weather data really easily that would have been very hard to spot just by looking at data in tabular form. 
